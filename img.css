@@ -1,0 +1,16 @@
+#img
+{
+  margin: 5px;
+  padding: 5px;
+  border: 1px solid #0000ff;
+  height: auto;
+  width: auto;
+  float: left;
+  text-align: center;
+}	
+#img 
+{
+  display: inline;
+  margin: 5px;
+  border: 1px solid #ffffff;
+}
